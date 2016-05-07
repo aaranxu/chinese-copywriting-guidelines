@@ -7,3 +7,6 @@ rust:
 matrix:
   allow_failures:
     - rust: nightly
+
+script:
+  - rustc --version
