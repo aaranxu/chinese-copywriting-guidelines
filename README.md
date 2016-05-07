@@ -1,5 +1,4 @@
 # 中文排版指南
-[![Build Status][travis-image]][travis-link]  
 
 大陆中文网站、出版物和文案等相关的排版指南，准备排版中文博客或书写中文的技术图书的作者可以参考本指南。
 
@@ -7,8 +6,6 @@
 
 需特别注意的是，作为大陆的网站[知乎][zhihu]官方强制使用“「”、“」”、“『”、“』”违反了教育部制定的国家符号标准，作为一个较为严肃中文问答社区出现这样不严谨的情况实属不该。知乎使用不当标点的行为和网友使用火星文、网络流行词汇本质一样，不符合教育部规定的语言文字规范，将个人的偏好凌驾于规范之上。在 [Alexa 中国排名前 500 的网站][alexa]中，只有知乎使用的标点符号标准违反了国家标准。或许知乎官方认为他们网站是海外网站或是全球性网站，这样看来知乎不存在遵不遵循国家标点规范的问题了。
 
-[travis-image]: https://travis-ci.org/aakloxu/chinese-copywriting-guideline.svg?branch=master
-[travis-link]: https://travis-ci.org/aakloxu/chinese-copywriting-guidelines
 [sparanoid-guidelines]: https://github.com/sparanoid/chinese-copywriting-guidelines
 [typesetting-standard]:https://github.com/Haixing-Hu/typesetting-standard
 [typeset]:https://github.com/chenshuo/typeset
