@@ -5,7 +5,7 @@
 
 内容主要根据[中文文案排版指北][sparanoid-guidelines]编写，但该指北仅适用于台湾的中文的排版，所以有少数内容对大陆的中文排版并不合适，比如“「”、“」”、“『”、“』”是不能在大陆出版的图书、中小学考试和正规网站的中文横排排版中使用的。本指南严格遵循中华人民共和国教育部所颁布的[《中华人民共和国标点符号用法》][china-punctuation]的规定，同时还参考了[中文书刊排版相关标准和规范][typesetting-standard]和[用 LaTeX 排版技术书籍][typeset]。
 
-需特别注意的是，作为大陆的网站[知乎][zhihu]官方强制使用“「”、“」”、“『”、“』”违反了教育部制定的国家符号标准，作为一个较为严肃中文问答社区出现这样不严谨的情况实属不该。知乎使用不当标点的行为和网友使用火星文、网络流行词汇本质一样，不符合教育部规定的语言文字规范，将个人的偏好凌驾于规范之上。在 [Alexa 中国排名前 500 的网站][alexa]中，只有知乎使用的标点符号标准违反了国家标准。
+需特别注意的是，作为大陆的网站[知乎][zhihu]官方强制使用“「”、“」”、“『”、“』”违反了教育部制定的国家符号标准，作为一个较为严肃中文问答社区出现这样不严谨的情况实属不该。知乎使用不当标点的行为和网友使用火星文、网络流行词汇本质一样，不符合教育部规定的语言文字规范，将个人的偏好凌驾于规范之上。在 [Alexa 中国排名前 500 的网站][alexa]中，只有知乎使用的标点符号标准违反了国家标准。或许知乎官方认为他们网站是海外网站或是全球性网站，这样看来知乎不存在遵不遵循国家标点规范的问题了。
 
 [sparanoid-guidelines]: https://github.com/sparanoid/chinese-copywriting-guidelines
 [typesetting-standard]:https://github.com/Haixing-Hu/typesetting-standard
@@ -295,5 +295,5 @@ Microsoft 有个 [`-ms-text-autospace`](http://msdn.microsoft.com/en-us/library/
 - [格式 - openSUSE](https://zh.opensuse.org/index.php?title=Help:%E6%A0%BC%E5%BC%8F)
 - [全角和半角 - 维基百科](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2)
 - [引号 - 维基百科](http://zh.wikipedia.org/wiki/%E5%BC%95%E8%99%9F)
-《中华人民共和国标点符号用法》(http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
+- [《中华人民共和国标点符号用法》](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
 - [疑问惊叹号 - 维基百科](http://zh.wikipedia.org/wiki/%E7%96%91%E5%95%8F%E9%A9%9A%E5%98%86%E8%99%9F)
