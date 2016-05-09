@@ -4,17 +4,18 @@
 
 内容主要根据[中文文案排版指北][sparanoid-guidelines]编写，但该指北仅适用于台湾的中文的排版，所以有少数内容对大陆的中文排版并不合适，比如“「”、“」”、“『”、“』”是不能在大陆出版的图书、中小学考试和正规网站的中文横排排版中使用的。本指南严格遵循中华人民共和国教育部所颁布的[《中华人民共和国标点符号用法》][china-punctuation]的规定，同时还参考了[中文书刊排版相关标准和规范][typesetting-standard]和[用 LaTeX 排版技术书籍][typeset]。
 
-需特别注意的是，作为大陆的网站[知乎][zhihu]官方强制使用“「”、“」”、“『”、“』”违反了教育部制定的国家符号标准，作为一个较为严肃中文问答社区出现这样不严谨的情况实属不该。知乎使用不当标点的行为和网友使用火星文、网络流行词汇本质一样，不符合教育部规定的语言文字规范，将个人的偏好凌驾于规范之上。在 [Alexa 中国排名前 500 的网站][alexa]中，只有知乎使用的标点符号标准违反了国家标准。或许知乎官方认为他们网站是海外网站或是全球性网站，这样看来知乎不存在遵不遵循国家标点规范的问题了。
+需特别注意的是，[知乎][zhihu]官方强制使用“「”、“」”、“『”、“』”作为中文引号不符合教育部规定的符号用法。知乎的行为（知乎规定使用直角引号曾在知乎网内部引起了[激烈的讨论][discuzz]）和网友使用火星文、网络流行词汇的行为一样，他们也有权利作出自己的选择，不过不符合教育部规定的语言文字规范，在大陆写技术图书的朋友特别要注意这点。在 [Alexa 中国排名前 500 的网站][alexa]中，只有知乎使用的标点符号标准违反了国家标准。或许知乎官方将他们网站定位为海外网站或是全球性网站，这样的话知乎就不存在遵不遵循国家标点规范的问题了。
 
 [sparanoid-guidelines]: https://github.com/sparanoid/chinese-copywriting-guidelines
 [typesetting-standard]:https://github.com/Haixing-Hu/typesetting-standard
 [typeset]:https://github.com/chenshuo/typeset
 [zhihu]:https:www.zhihu.com
+[discuzz]:https://www.zhihu.com/question/20595340
 [alexa]:http://www.alexa.com/topsites/countries/CN
 [china-punctuation]: http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf
 
 参见：
-- [台湾地区中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+- [台湾的中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 
 -----
 
